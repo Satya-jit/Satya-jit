@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satya-jit&show_icons=true&locale=en" alt="Satya-jit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-jit&show_icons=true&locale=en" alt="Satya-jit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Satya-jit&show_icons=true&locale=en" alt="Satya-jit" /></p>
