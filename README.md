@@ -1,39 +1,105 @@
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
-<h1 align="center">Hi there 👋 I'm Satyajit Das</h1>
+<div align="center">
 
-<h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🔧 Automation Lover</h3>
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+# SATYAJIT DAS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satya-jit&label=Profile%20views&color=0e75b6&style=flat" alt="Satya-jit" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF2D55&center=true&vCenter=true&width=600&lines=Senior+DevOps+%2F+Platform+Engineer;InfraOps+%40+SonicWall;Building+resilient+infra%2C+one+commit+at+a+time;GitOps+native+%7C+Kubernetes+at+scale" alt="Typing animation" />
 
-- 🔭 I’m currently working on [Microservices](https://github.com/Satya-jit/Microservices)
+<br/>
 
-- 🌱 I’m currently learning **Kubernetes**
+<img src="https://komarev.com/ghpvc/?username=Satya-jit&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge&labelColor=0a0a0a" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Satya-jit?label=FOLLOWERS&style=for-the-badge&color=ff003c&labelColor=0a0a0a" alt="Followers" />
 
-- 💬 Ask me about **DevOps, AWS (EKS, ECS), Kubernetes, Docker, Terraform, Ansible, Jenkins, GitHub Actions, Helm, Python, Shell Scripting, Linux System Administration, CI/CD, Infrastructure as Code (IaC), Prometheus, Grafana, ELK Stack, Git, GitHub, Agile/Scrum practices, and cloud-native architecture.**
+<br/>
+<br/>
 
-- 📫 How to reach me **satyajitdas0033@gmail.com**
+<a href="https://rootbysatya.in/"><img src="https://img.shields.io/badge/Website-rootbysatya.in-ff2d55?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/satyajit-das-86bbb948/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff2d55?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
 
-- ⚡ My Website https://rootbysatya.in/
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/satyajitdas0](https://www.linkedin.com/in/satyajitdas0)
+<br/>
 
+```
+$ cat mission.txt
+GitOps-driven Kubernetes platforms on GKE, powered by FluxCD.
+Infra automated with Terraform / OpenTofu across multi-cloud.
+Built for reliability. Operated at scale.
+```
 
+<br/>
 
+## `$ currently --active`
 
+```diff
++ Operating GKE-based platforms with FluxCD GitOps workflows
++ Modernizing GitLab CI pipelines for large-scale deployments
++ Building Kubernetes operators & CRDs for platform automation
++ Driving Datadog observability and infrastructure security remediation
++ Managing IaC with Terraform / OpenTofu across multi-cloud environments
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/satyajitdas0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyajitdas0" height="30" width="40" /></a>
-<a href="https://hashnode.com/@satyajitdas0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@satyajitdas0" height="30" width="40" /></a>
-<a href="https://satyajitdas0033.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.pathak_51134" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+## `$ stack --grep platform`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satya-jit&show_icons=true&locale=en&layout=compact" alt="Satya-jit" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satya-jit&show_icons=true&locale=en" alt="Satya-jit" /></p>
+<img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=ff2d55" alt="GCP" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=ff2d55" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=ff2d55" alt="Azure" />
+<img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=ff2d55" alt="Terraform" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-jit&" alt="Satya-jit" /></p>
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=ff2d55" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/FluxCD-000000?style=for-the-badge&logo=flux&logoColor=ff2d55" alt="FluxCD" />
+<img src="https://img.shields.io/badge/Helm-000000?style=for-the-badge&logo=helm&logoColor=ff2d55" alt="Helm" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff2d55" alt="Docker" />
+
+<img src="https://img.shields.io/badge/GitLab_CI-000000?style=for-the-badge&logo=gitlab&logoColor=ff2d55" alt="GitLab CI" />
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=ff2d55" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=ff2d55" alt="Ansible" />
+
+<img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=ff2d55" alt="Datadog" />
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=ff2d55" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=ff2d55" alt="Grafana" />
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff2d55" alt="Python" />
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ff2d55" alt="Go" />
+<img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=ff2d55" alt="Shell" />
+
+</div>
+
+<br/>
+
+## `$ stats --theme red`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satya-jit&theme=github_dark" alt="Profile summary" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satya-jit&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satya-jit&theme=github_dark" alt="Most commit language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satya-jit&theme=github_dark" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satya-jit&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+
+</div>
+
+<br/>
+
+## `$ contributions --render 3d`
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>$ exit</sub>
+</div>
